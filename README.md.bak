@@ -1,0 +1,4 @@
+## Angular.js 1.6.6 버젼과 부트스트랩을 이용한 TODO앱 만들기.
+1. AngularJS 코드 작성
+2. app.js / controllers.js / directives.js / services.js 분리 및 **.tpl.html 분리
+3. localStorage를 사용한 브라우저로 데이터 저장 및 불러오기 기능 
